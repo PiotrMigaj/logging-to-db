@@ -1,0 +1,138 @@
+2023-05-24 12:36:09,840992400 Starting LoggingToDbApplication using Java 17.0.6 on LCE59819 with PID 30868 (C:\JSTK\logging-to-db\target\classes started by pmigaj in C:\JSTK\logging-to-db)
+2023-05-24 12:36:09,848994000 No active profile set, falling back to 1 default profile: "default"
+2023-05-24 12:36:10,404348500 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-24 12:36:10,420320100 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2023-05-24 12:36:10,850217400 Tomcat initialized with port(s): 8080 (http)
+2023-05-24 12:36:10,865435800 Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:36:10,866183300 Starting service [Tomcat]
+2023-05-24 12:36:10,866183300 Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-05-24 12:36:10,980034200 Initializing Spring embedded WebApplicationContext
+2023-05-24 12:36:10,980724600 Root WebApplicationContext: initialization completed in 1084 ms
+2023-05-24 12:36:11,079377200 HikariPool-1 - Starting...
+2023-05-24 12:36:11,363594500 HikariPool-1 - Start completed.
+2023-05-24 12:36:11,403302100 HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-24 12:36:11,447267600 HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-24 12:36:11,627612200 HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-24 12:36:11,744620700 HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-05-24 12:36:11,910490000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-24 12:36:11,923488500 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:36:11,956860500 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-24 12:36:12,262078900 Starting ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:36:12,283957800 Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-24 12:36:12,292958400 Started LoggingToDbApplication in 3.007 seconds (JVM running for 4.086)
+2023-05-24 12:36:12,295959900 Hello world
+2023-05-24 12:36:52,127512200 Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:36:52,129508200 HikariPool-1 - Shutdown initiated...
+2023-05-24 12:36:52,149508700 HikariPool-1 - Shutdown completed.
+2023-05-24 12:36:54,633716600 Starting LoggingToDbApplication using Java 17.0.6 on LCE59819 with PID 30636 (C:\JSTK\logging-to-db\target\classes started by pmigaj in C:\JSTK\logging-to-db)
+2023-05-24 12:36:54,639694300 No active profile set, falling back to 1 default profile: "default"
+2023-05-24 12:36:55,303618500 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-24 12:36:55,315622500 Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2023-05-24 12:36:55,843547900 Tomcat initialized with port(s): 8080 (http)
+2023-05-24 12:36:55,858548400 Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:36:55,859548200 Starting service [Tomcat]
+2023-05-24 12:36:55,859548200 Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-05-24 12:36:55,945547000 Initializing Spring embedded WebApplicationContext
+2023-05-24 12:36:55,945547000 Root WebApplicationContext: initialization completed in 1273 ms
+2023-05-24 12:36:56,043501900 HikariPool-1 - Starting...
+2023-05-24 12:36:56,323905000 HikariPool-1 - Start completed.
+2023-05-24 12:36:56,356938600 HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-24 12:36:56,393903900 HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-24 12:36:56,538903300 HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-24 12:36:56,641903900 HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-05-24 12:36:56,798405100 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-24 12:36:56,810372900 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:36:56,838552200 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-24 12:36:57,077482000 Starting ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:36:57,096725200 Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-24 12:36:57,104646300 Started LoggingToDbApplication in 2.858 seconds (JVM running for 3.605)
+2023-05-24 12:36:57,106684200 Hello world
+2023-05-24 12:38:37,769354400 Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:38:37,770390800 HikariPool-1 - Shutdown initiated...
+2023-05-24 12:38:37,782356400 HikariPool-1 - Shutdown completed.
+2023-05-24 12:38:40,346142700 Starting LoggingToDbApplication using Java 17.0.6 on LCE59819 with PID 15272 (C:\JSTK\logging-to-db\target\classes started by pmigaj in C:\JSTK\logging-to-db)
+2023-05-24 12:38:40,351203900 No active profile set, falling back to 1 default profile: "default"
+2023-05-24 12:38:40,822117900 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-24 12:38:40,844214800 Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
+2023-05-24 12:38:41,225762200 Tomcat initialized with port(s): 8080 (http)
+2023-05-24 12:38:41,237761300 Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:38:41,238726900 Starting service [Tomcat]
+2023-05-24 12:38:41,238726900 Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-05-24 12:38:41,336967700 Initializing Spring embedded WebApplicationContext
+2023-05-24 12:38:41,337967300 Root WebApplicationContext: initialization completed in 955 ms
+2023-05-24 12:38:41,436592500 HikariPool-1 - Starting...
+2023-05-24 12:38:41,690032100 HikariPool-1 - Start completed.
+2023-05-24 12:38:41,723009300 HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-24 12:38:41,761182700 HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-24 12:38:41,929810100 HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-24 12:38:42,020807800 HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-05-24 12:38:42,155810300 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-24 12:38:42,167849200 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:38:42,197810100 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-24 12:38:42,453161800 Starting ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:38:42,471600600 Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-24 12:38:42,479635100 Started LoggingToDbApplication in 2.531 seconds (JVM running for 3.286)
+2023-05-24 12:38:42,480639000 Hello world
+2023-05-24 12:44:06,899824800 Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:44:06,900691300 HikariPool-1 - Shutdown initiated...
+2023-05-24 12:44:06,915652000 HikariPool-1 - Shutdown completed.
+2023-05-24 12:44:10,635557900 Starting LoggingToDbApplication using Java 17.0.6 on LCE59819 with PID 14232 (C:\JSTK\logging-to-db\target\classes started by pmigaj in C:\JSTK\logging-to-db)
+2023-05-24 12:44:10,653274100 HikariPool-1 - Starting...
+2023-05-24 12:44:10,930300900 HikariPool-1 - Start completed.
+2023-05-24 12:44:10,982366600 No active profile set, falling back to 1 default profile: "default"
+2023-05-24 12:44:11,485232900 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-24 12:44:11,517845900 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2023-05-24 12:44:11,892381400 Tomcat initialized with port(s): 8080 (http)
+2023-05-24 12:44:11,919102500 Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:44:11,933713900 Starting service [Tomcat]
+2023-05-24 12:44:11,947358200 Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-05-24 12:44:12,021301800 Initializing Spring embedded WebApplicationContext
+2023-05-24 12:44:12,034532400 Root WebApplicationContext: initialization completed in 1010 ms
+2023-05-24 12:44:12,141155000 HikariPool-2 - Starting...
+2023-05-24 12:44:12,173270800 HikariPool-2 - Start completed.
+2023-05-24 12:44:12,218342500 HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-24 12:44:12,273316600 HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-24 12:44:12,457615200 HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-24 12:44:12,562559200 HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-05-24 12:44:12,724183900 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-24 12:44:12,747417800 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:44:12,792466300 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-24 12:44:13,070370200 Starting ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:44:13,104990400 Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-24 12:44:13,131989100 Started LoggingToDbApplication in 2.913 seconds (JVM running for 3.905)
+2023-05-24 12:44:13,150292200 Hello world
+2023-05-24 12:44:56,302200400 Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:44:56,319778900 HikariPool-2 - Shutdown initiated...
+2023-05-24 12:44:56,357439800 HikariPool-2 - Shutdown completed.
+2023-05-24 12:44:59,845708400 Starting LoggingToDbApplication using Java 17.0.6 on LCE59819 with PID 29592 (C:\JSTK\logging-to-db\target\classes started by pmigaj in C:\JSTK\logging-to-db)
+2023-05-24 12:44:59,862312200 HikariPool-1 - Starting...
+2023-05-24 12:45:00,163562900 HikariPool-1 - Start completed.
+2023-05-24 12:45:00,227145100 No active profile set, falling back to 1 default profile: "default"
+2023-05-24 12:45:00,926032400 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-24 12:45:00,960032600 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2023-05-24 12:45:01,436144200 Tomcat initialized with port(s): 8080 (http)
+2023-05-24 12:45:01,461604800 Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:45:01,479579400 Starting service [Tomcat]
+2023-05-24 12:45:01,494578100 Starting Servlet engine: [Apache Tomcat/9.0.75]
+2023-05-24 12:45:01,585578500 Initializing Spring embedded WebApplicationContext
+2023-05-24 12:45:01,601581400 Root WebApplicationContext: initialization completed in 1309 ms
+2023-05-24 12:45:01,711561100 HikariPool-2 - Starting...
+2023-05-24 12:45:01,749554700 HikariPool-2 - Start completed.
+2023-05-24 12:45:01,806441400 HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-24 12:45:01,869556300 HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-05-24 12:45:02,077554000 HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-24 12:45:02,195519400 HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-05-24 12:45:02,387458500 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-24 12:45:02,415492000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:45:02,463757000 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-24 12:45:02,792613300 Starting ProtocolHandler ["http-nio-8080"]
+2023-05-24 12:45:02,836616400 Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-24 12:45:02,862549100 Started LoggingToDbApplication in 3.436 seconds (JVM running for 4.227)
+2023-05-24 12:45:02,879944700 Hello world
+2023-05-24 12:46:08,471905800 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-24 12:46:08,486907600 Initializing Servlet 'dispatcherServlet'
+2023-05-24 12:46:08,510913100 Completed initialization in 4 ms
+2023-05-24 12:46:08,728781200 Got POST request with body: EmployeeDto[firstName=Basia, lastName=Migaj, email=bmigaj@gmail.com]
+2023-05-24 12:47:03,069720500 Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-24 12:47:03,093377500 HikariPool-2 - Shutdown initiated...
+2023-05-24 12:47:03,123412900 HikariPool-2 - Shutdown completed.
